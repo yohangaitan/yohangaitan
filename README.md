@@ -90,13 +90,20 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>Resolver problemas, romper cosas, arreglarlas otra vez. Un ciclo infinito, pero me encanta.ا</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
 
 ---
-<br><br>
 
-<p align="center">
-  <b>Resolver problemas, romper cosas, arreglarlas otra vez. Un ciclo infinito, pero me encanta.</b>
-</p>
-
-<br><br>
+<br>
