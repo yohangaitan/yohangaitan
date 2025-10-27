@@ -96,7 +96,7 @@
 
 <div align='center'>
 
-## <b>Resolver problemas, romper cosas, arreglarlas otra vez. Un ciclo infinito, pero me encanta.ا</b>
+## <b>Resolver problemas, romper cosas, arreglarlas otra vez. Un ciclo infinito, pero me encanta.</b>
 
 </div>
 <br>
