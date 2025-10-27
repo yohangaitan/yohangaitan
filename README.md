@@ -93,3 +93,10 @@
 <br><br><br><br><br><br><br><br>
 
 ---
+<br><br>
+
+<p align="center">
+  <b>Resolver problemas, romper cosas, arreglarlas otra vez. Un ciclo infinito, pero me encanta.</b>
+</p>
+
+<br><br>
