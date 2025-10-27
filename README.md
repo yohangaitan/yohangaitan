@@ -11,7 +11,7 @@
 ## <picture><img src="https://github.com/a/a/a/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
 
 <picture>
-  <img align="right" src="https://github.com/yohangaitan/yohangaitan/blob/main/images/alguien programando.jpeg?raw=true" width="250px">
+  <img align="right" src="https://github.com/yohangaitan/yohangaitan/blob/main/images/cat.gif?raw=true" width="250px">
 </picture>
 
 <br>
