@@ -19,7 +19,8 @@
 - Desarrollador **Full-Stack** autodidacta  
 - Me gusta resolver retos de programación y aprender de ellos  
 - Experiencia en desarrollo **Backend con Django**  
-- Actualmente aprendiendo **Desarrollo Web Full-Stack con React y Node.js**  
+- Actualmente aprendiendo **Desarrollo Web Full-Stack con React y Node.js**
+- Apasionado por la **Inteligencia Artificial** y con la meta de especializarme en ella en el futuro  
 - Mi sitio personal [link](https://portafolio-hazel-chi.vercel.app/)  
 - Abierto a oportunidades de prácticas o trabajo. Próximamente aquí [mi currículum](hehe)
 
