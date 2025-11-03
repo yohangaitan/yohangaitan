@@ -18,10 +18,10 @@
 
 - Desarrollador **Full-Stack** autodidacta  
 - Me gusta resolver retos de programación y aprender de ellos  
-- Actualmente aprendiendo **Desarrollo web fullstack con React y Node.js**
-- Experiencia en desarrollo Backend con Django
+- Experiencia en desarrollo **Backend con Django**  
+- Actualmente aprendiendo **Desarrollo Web Full-Stack con React y Node.js**  
 - Mi sitio personal [link](https://portafolio-hazel-chi.vercel.app/)  
-- Estoy abierto a oportunidades de prácticas o trabajo. Próximamente aquí [mi currículum](hehe)
+- Abierto a oportunidades de prácticas o trabajo. Próximamente aquí [mi currículum](hehe)
 
 <br><br>
 
@@ -37,18 +37,22 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>   
-    
-- **Desarrollo Full-Stack**:
+<br>
+
+- **Desarrollo Backend**:
+
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br>
+
+- **Desarrollo Full-Stack (en aprendizaje)**:
 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
 
 <br>
 
