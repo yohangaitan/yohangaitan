@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Desarrollador+Full-Stack+autodidacta,;Estudiante+de+Desarrollo+y+Gestion+de+Software,;Apasionado+por+la+Inteligencia+Artificial,;Siempre+aprendiendo+y+explorando+nuevas+tecnologias.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Desarrollador+Full-Stack+autodidacta,;Estudiante+de+Ingeniería+de+Sistemas+y+Computación,;Apasionado+por+la+Inteligencia+Artificial,;Siempre+aprendiendo+y+explorando+nuevas+tecnologias.">
   </a>
 </p>
 
@@ -18,8 +18,7 @@
 
 - Desarrollador **Full-Stack** autodidacta  
 - Me gusta resolver retos de programación y aprender de ellos  
-- Experiencia en desarrollo **Backend con Django**  
-- Actualmente aprendiendo **Desarrollo Web Full-Stack con React y Node.js**
+- Experiencia en desarrollo **Backend con Django** 
 - Apasionado por la **Inteligencia Artificial** y con la meta de especializarme en ella en el futuro  
 - Mi sitio personal [link](https://portafolio-hazel-chi.vercel.app/)  
 - Abierto a oportunidades de prácticas o trabajo. Próximamente aquí [mi currículum](hehe)
@@ -44,6 +43,7 @@
 
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
@@ -63,7 +63,6 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
