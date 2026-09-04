@@ -45,6 +45,7 @@
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge\&logo=mariadb\&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 <br>
@@ -92,7 +93,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/yojan-gaitan-08256a2b1" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  yohan-gaitan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  yohan-gaitan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -100,7 +101,7 @@
 
 <li>
 <a href="mailto:gaitanyohann@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  gaitanyohann-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  gaitanyohann-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 </li>
 
