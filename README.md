@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Self-taught+Full-Stack+Developer,;Software+Development+and+Management+Student,;Passionate+about+Data+Analytics+and+Artificial+Intelligence,;Always+learning+and+exploring+new+technologies.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Self-taught+Full-Stack+Developer,;Software+Development+and+Management+Student,;Passionate+about+Data+Analytics+and+AI,;Always+learning+and+exploring+new+technologies.">
   </a>
 </p>
 
@@ -16,77 +16,76 @@
 
 <br>
 
-* Self-taught **Full-Stack Developer**
-* I enjoy solving programming challenges and learning from them
-* **Backend Experience:** Building robust applications with **Django** and developing APIs with **FastAPI**, including automation and data ingestion
-* Passionate about **Data Analytics and Artificial Intelligence**, with the goal of specializing in these fields in the future
-* My personal website: [link](https://portafolio-hazel-chi.vercel.app/)
-* Open to internship and job opportunities. My [resume](hehe) will be available here soon
+- Self-taught **Full-Stack Developer**
+- I enjoy solving programming challenges and learning from them
+- **Backend Experience:** Building robust applications with **Django** and developing APIs with **FastAPI**, including automation and data ingestion
+- Passionate about **Data Analytics and Artificial Intelligence**, with the goal of specializing in these fields in the future
+- My personal website: [link](https://portafolio-hazel-chi.vercel.app/)
+- Open to internship and job opportunities. My [resume](hehe) will be available here soon
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-
 <br>
 
 <p align="center">
 
-* **Languages**:
-
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-<br>
-
-* **Backend Development**:
-
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge\&logo=mariadb\&logoColor=white)
-  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+- **Languages**:
+    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
-* **Full-Stack Development (Currently Learning)**:
+- **Backend Development**:
 
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-<br>
-
-* **Deployment**:
-
-  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-  ![Fly.io](https://img.shields.io/badge/Fly.io-%237E3AF2.svg?style=for-the-badge\&logo=fly.io\&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
-* **Software & Tools**:
+- **Full-Stack Development (Currently Learning)**:
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge\&logo=google\&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+- **Deployment**:
+
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Fly.io](https://img.shields.io/badge/Fly.io-%237E3AF2.svg?style=for-the-badge&logo=fly.io&logoColor=white)
+
+<br>
+
+- **Software & Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
 
 <br>
 <br>
 
----
+-----
 
 <br>
 
 ## <b>Let's Connect!</b> <img src="https://github.com/a/a/raw/main/assets/mdImages/handshake.gif" width="80">
-
 <br>
+
 <div align='left'>
 
 <ul>
@@ -104,12 +103,15 @@
 <img src="https://img.shields.io/badge/gmail:  gaitanyohann-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 </li>
-
+	
 </ul>
+
 </div>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <br>
 <br>
@@ -119,6 +121,7 @@
 ## <b>Solving problems, breaking things, fixing them again. An infinite cycle, but I love it.</b>
 
 </div>
+
 <br>
 <br>
 <br>
